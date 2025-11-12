@@ -2,6 +2,21 @@
 
 A comprehensive, enterprise-ready news ticker solution for SharePoint Online built with SPFx, React, and TypeScript. Designed for displaying time-sensitive announcements with advanced management capabilities.
 
+<img width="1213" height="288" alt="Screenshot 2025-11-12 at 16 49 48" src="https://github.com/user-attachments/assets/993d09b3-b197-4098-af51-a749e6d9ab32" />
+
+view for main or home page
+
+<img width="1195" height="368" alt="Screenshot 2025-11-12 at 16 50 15" src="https://github.com/user-attachments/assets/265522bd-6f59-477e-b1e9-0ca80df64a44" />
+
+view for TickerNews page
+
+<img width="223" height="210" alt="Screenshot 2025-11-12 at 16 50 48" src="https://github.com/user-attachments/assets/52929f79-1c36-4ecd-b1ef-5918f7917d5f" />
+
+view of PropertyPane and switcher for accordion
+
+
+
+
 ## ✨ Features
 
 ### 📢 Message Display System
