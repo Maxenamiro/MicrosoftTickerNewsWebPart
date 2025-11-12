@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Optronics-Ticker-News",
+    "id": "3a4aa690-dd79-424a-aa53-b52d60832c77",
+    "version": "1.0.1.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "TickerNews description"
+      },
+      "longDescription": {
+        "default": "TickerNews description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ticker-news Feature",
+        "description": "The feature that activates elements of the ticker-news solution.",
+        "id": "ec1540ff-7c61-48af-bb77-73a46b0d979f",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ticker-news.sppkg"
+  }
+}

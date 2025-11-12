@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "ticker-news",
+    "libraryId": "3a4aa690-dd79-424a-aa53-b52d60832c77",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Optronics Ticker News",
+    "solutionShortDescription": "TickerNews description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
