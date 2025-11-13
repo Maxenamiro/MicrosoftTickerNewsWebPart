@@ -115,10 +115,10 @@ a.links {
 }
 
 .accordion {
-	background-color: #eceaea !important;
+	background-color: #d1cfd6 !important;
 
 	[class*='drawer'] {
-		background-color: #eceaea !important;
+		background-color: #d1cfd6 !important;
 		font-size: 12px !important;
 		padding: 12px 12px 4px !important;
 	}
@@ -174,7 +174,10 @@ a.links {
 			height: 0;
 			border-left: 8px solid transparent;
 			border-right: 8px solid transparent;
-			border-top: 14px solid #503291;
+			border-bottom: 14px solid #503291;
+			// border-left: 8px solid transparent;
+			// border-right: 8px solid transparent;
+			// border-top: 14px solid #503291;
 		}
 	}
 
@@ -194,7 +197,10 @@ a.links {
 			height: 0;
 			border-left: 8px solid transparent;
 			border-right: 8px solid transparent;
-			border-bottom: 14px solid #503291;
+			border-top: 14px solid #503291;
+			// border-left: 8px solid transparent;
+			// border-right: 8px solid transparent;
+			// border-bottom: 14px solid #503291;
 		}
 	}
 }

@@ -3,7 +3,7 @@
   "solution": {
     "name": "Optronics-Ticker-News",
     "id": "3a4aa690-dd79-424a-aa53-b52d60832c77",
-    "version": "1.0.1.0",
+    "version": "1.0.1.1",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
